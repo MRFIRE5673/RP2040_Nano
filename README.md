@@ -2,7 +2,7 @@
 
 Compact 4-layer RP2040 development board built for embedded experimentation, expansion, and practical tinkering.
 
-![RP2040 Nano Render](Images/Front_render.png)
+![RP2040 Nano Render](Images/front_render.png)
 
 ---
 
@@ -27,13 +27,13 @@ Compact 4-layer RP2040 development board built for embedded experimentation, exp
 
 | Front | Back |
 |---|---|
-| ![](Images/Front_render.png) | ![](Images/Back_render.png) |
+| ![](Images/front_render.png) | ![](Images/back_render.png) |
 
 ---
 
 ## Manufactured PCB
 
-![PCB Photo](Images/Pcb_photo.png)
+![PCB Photo](Images/pcb_photo.png)
 
 ---
 
