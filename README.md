@@ -33,7 +33,7 @@ Compact 4-layer RP2040 development board built for embedded experimentation, exp
 
 ## Manufactured PCB
 
-![PCB Photo](Images/pcb_photo.png)
+![PCB Photo](Images/pcb_photo.jpg)
 
 ---
 
