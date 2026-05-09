@@ -2,7 +2,7 @@
 
 Compact 4-layer RP2040 development board built for embedded experimentation, expansion, and practical tinkering.
 
-![RP2040 Nano Render](Images/front_render.png)
+![RP2040 Nano Render](Images/Front_render.png)
 
 ---
 
@@ -13,7 +13,7 @@ Compact 4-layer RP2040 development board built for embedded experimentation, exp
 - QSPI flash
 - EEPROM support
 - BOOTSEL button
-- WS2812B-2020 RGB STATUS LED
+- WS2812B-2020 RGB status LED
 - ME6211 LDO
 - 4-position DIP switch
 - Polyfuse protection
@@ -27,7 +27,19 @@ Compact 4-layer RP2040 development board built for embedded experimentation, exp
 
 | Front | Back |
 |---|---|
-| ![](Images/front.png) | ![](Images/back.png) |
+| ![](Images/Front_render.png) | ![](Images/Back_render.png) |
+
+---
+
+## Manufactured PCB
+
+![PCB Photo](Images/Pcb_photo.png)
+
+---
+
+## Schematic Preview
+
+![Schematic](Images/schematic.png)
 
 ---
 
@@ -66,3 +78,11 @@ Hardware/
 Firmware/
 Images/
 Docs/
+README.md
+```
+
+---
+
+## Notes
+
+This board was designed while learning KiCad and experimenting with compact embedded system design within a week.
