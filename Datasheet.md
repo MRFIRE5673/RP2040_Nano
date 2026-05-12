@@ -4,7 +4,7 @@ RP2040 Nano
 
 Compact 4-layer RP2040 development board designed for embedded experimentation, modular integration, and practical prototyping.
 
-[Insert Front Render]
+![RP2040 Nano Render](Images/front_render.png)
 
 Designed by MRFIRE5673
 
@@ -137,15 +137,15 @@ GPIO access is exposed through castellated edge connections for daughterboard in
 
 Front PCB Render
 
-[Insert Front_render.png]
+![RP2040 Nano Render](Images/front_render.png)
 
 Back PCB Render
 
-[Insert Back_render.png]
+![RP2040 Nano Render](Images/back_render.png)
 
 Manufactured PCB
 
-[Insert Pcb_photo.png]
+![RP2040 Nano Render](Images/pcb_photo.jpg)
 
 ------------------------------------------------------------
 
@@ -155,7 +155,7 @@ Manufactured PCB
 
 11. Schematic Preview
 
-[Insert schematic.png]
+![RP2040 Nano Render](Images/schematic.png)
 
 12. Mechanical Dimensions
 
