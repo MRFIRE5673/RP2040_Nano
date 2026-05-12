@@ -1,9 +1,6 @@
 
-PAGE 1 — COVER PAGE
-========================
-
 RP2040 Nano
-Rev 1.0
+========================
 
 Compact 4-layer RP2040 development board designed for embedded experimentation, modular integration, and practical prototyping.
 
@@ -17,7 +14,7 @@ github.com/MRFIRE5673
 ------------------------------------------------------------
 
 
-PAGE 2 — OVERVIEW & FEATURES
+OVERVIEW & FEATURES
 ========================
 
 1. Overview
@@ -44,7 +41,7 @@ The board integrates USB-C connectivity, external QSPI flash, EEPROM support, co
 ------------------------------------------------------------
 
 
-PAGE 3 — BOARD SPECIFICATIONS
+BOARD SPECIFICATIONS
 ========================
 
 3. Board Specifications
@@ -68,7 +65,7 @@ PAGE 3 — BOARD SPECIFICATIONS
 ------------------------------------------------------------
 
 
-PAGE 4 — ELECTRICAL INFORMATION
+ ELECTRICAL INFORMATION
 ========================
 
 4. Absolute Maximum Ratings
@@ -90,7 +87,7 @@ PAGE 4 — ELECTRICAL INFORMATION
 ------------------------------------------------------------
 
 
-PAGE 5 — POWER SYSTEM
+POWER SYSTEM
 ========================
 
 6. Power Architecture
@@ -115,7 +112,7 @@ USB-C → Polyfuse → ME6211 → 3.3V Rail
 ------------------------------------------------------------
 
 
-PAGE 6 — PINOUT & GPIO
+ PINOUT & GPIO
 ========================
 
 8. GPIO Expansion
@@ -133,7 +130,7 @@ GPIO access is exposed through castellated edge connections for daughterboard in
 ------------------------------------------------------------
 
 
-PAGE 7 — PCB LAYOUT
+ PCB LAYOUT
 ========================
 
 10. PCB Layout
@@ -153,7 +150,7 @@ Manufactured PCB
 ------------------------------------------------------------
 
 
-PAGE 8 — SCHEMATIC & MECHANICAL
+ SCHEMATIC & MECHANICAL
 ========================
 
 11. Schematic Preview
@@ -171,7 +168,7 @@ PAGE 8 — SCHEMATIC & MECHANICAL
 ------------------------------------------------------------
 
 
-PAGE 9 — REVISION HISTORY
+REVISION HISTORY
 ========================
 
 13. Current Status
@@ -190,7 +187,7 @@ PAGE 9 — REVISION HISTORY
 ------------------------------------------------------------
 
 
-PAGE 10 — NOTES & DISCLAIMER
+ NOTES & DISCLAIMER
 ========================
 
 15. Notes
